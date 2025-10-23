@@ -37,7 +37,7 @@ app.use(limiter);
 // CORS configuration
 app.use(cors({
   origin: process.env.NODE_ENV === 'production' 
-    ? ['https://subscribley-6vyqim887-aswathys-projects-6ef6b6aa.vercel.app']
+    ? ['https://subscribley.vercel.app/']
     : ['http://localhost:3000', 'http://127.0.0.1:3000'],
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
