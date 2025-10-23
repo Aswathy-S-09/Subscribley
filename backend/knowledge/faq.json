@@ -1,0 +1,37 @@
+[
+  {
+    "q": "How do I add a subscription?",
+    "aliases": ["add subscription", "create subscription", "new subscription", "how add"],
+    "a": "Open the Add tab, choose a service, select plan and duration, enter price and renewal date, then click Add Subscription."
+  },
+  {
+    "q": "How do I edit or delete a subscription?",
+    "aliases": ["edit subscription", "update subscription", "delete subscription"],
+    "a": "Go to the List tab. Use Edit to modify fields and Save to confirm, or Delete to remove the subscription."
+  },
+  {
+    "q": "Why do I see Access denied?",
+    "aliases": ["access denied", "no token", "authorization", "logged out"],
+    "a": "You are likely not authenticated. Please Sign up or Log in. After login, protected actions like adding subscriptions will work."
+  },
+  {
+    "q": "How are email alerts sent?",
+    "aliases": ["email alerts", "automatic email", "renewal reminder", "daily email"],
+    "a": "Renewal reminder emails are sent daily at 10:00 AM for subscriptions expiring within 7 days or already expired. Ensure SMTP is configured on the server."
+  },
+  {
+    "q": "What plans are available for Zee5 and SunNXT?",
+    "aliases": ["zee5", "sunnxt", "plans", "pricing"],
+    "a": "Zee5: Mobile, Premium, Premium 4K, Annual Premium. SunNXT: Mobile, Standard, Premium, Annual Premium. Netflix: Basic, Standard, Premium."
+  },
+  {
+    "q": "Which subscriptions are expiring soon?",
+    "aliases": ["expiring", "expiring soon", "renewal due", "overdue"],
+    "a": "Open the Dashboard or ask while logged in: I can summarize items expired and expiring in the next 7 days."
+  },
+  {
+    "q": "What is my monthly spend?",
+    "aliases": ["monthly spend", "total monthly", "per month"],
+    "a": "While logged in, I can compute the sum of your active subscriptions' price field to estimate monthly spend."
+  }
+]
