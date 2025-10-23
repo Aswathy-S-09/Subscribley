@@ -37,12 +37,14 @@ app.use(limiter);
 // CORS configuration
 app.use(cors({
   origin: process.env.NODE_ENV === 'production' 
-    ? ['https://yourdomain.com'] // Replace with your frontend domain
+    ? ['https://subscribley-6vyqim887-aswathys-projects-6ef6b6aa.vercel.app']
     : ['http://localhost:3000', 'http://127.0.0.1:3000'],
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization']
 }));
+
+
 
 // Body parsing middleware
 app.use(express.json({ limit: '10mb' }));
