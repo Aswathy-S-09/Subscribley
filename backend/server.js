@@ -37,7 +37,7 @@ app.use(limiter);
 // CORS configuration
 app.use(cors({
   origin: process.env.NODE_ENV === 'production' 
-    ? ['https://subscribley.vercel.app/']
+    ? ['https://subscribley.vercel.app']
     : ['http://localhost:3000', 'http://127.0.0.1:3000'],
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
@@ -55,6 +55,15 @@ app.get('/api/health', (req, res) => {
   res.json({
     success: true,
     message: 'Subscribely API is running',
+    timestamp: new Date().toISOString(),
+    environment: process.env.NODE_ENV || 'development'
+  });
+});
+// Default /api endpoint
+app.get('/api', (req, res) => {
+  res.json({
+    success: true,
+    message: 'Welcome to Subscribely API',
     timestamp: new Date().toISOString(),
     environment: process.env.NODE_ENV || 'development'
   });
