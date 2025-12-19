@@ -1,0 +1,137 @@
+
+========================================
+Email Type: Welcome Email
+To: john@example.com
+Subject: Welcome to Subscribely! 🎉
+Timestamp: 2025-09-25T04:01:00.058Z
+========================================
+
+      <h2>Welcome to Subscribely!</h2>
+      <p>Hi John,</p>
+      <p>Thank you for joining Subscribely!</p>
+      <p>Start managing your subscriptions now!</p>
+    
+========================================
+
+
+========================================
+Email Type: Welcome Email
+To: john@example.com
+Subject: Welcome back to Subscribely! 👋
+Timestamp: 2025-09-25T04:01:00.088Z
+========================================
+
+      <h2>Welcome back to Subscribely!</h2>
+      <p>Hi John,</p>
+      <p>Great to see you back!</p>
+      <p>Start managing your subscriptions now!</p>
+    
+========================================
+
+
+========================================
+Email Type: Renewal Reminder
+To: john@example.com
+Subject: 📅 Renewal Reminder - WARNING
+Timestamp: 2025-09-25T04:01:00.172Z
+========================================
+
+      <h2>Subscription Renewal Reminder</h2>
+      <p>Hi John,</p>
+      <p>You have 2 subscription(s) expiring soon.</p>
+      <ul>
+        <li>Netflix - Premium (₹649/month)</li><li>Amazon Prime - Standard (₹299/month)</li>
+      </ul>
+    
+========================================
+
+
+========================================
+Email Type: Welcome Email
+To: aswanthmylsamy@gmail.com
+Subject: Welcome back to Subscribely! 👋
+Timestamp: 2025-11-13T16:35:01.152Z
+========================================
+
+      <h2>Welcome back to Subscribely!</h2>
+      <p>Hi Aswanth,</p>
+      <p>Great to see you back!</p>
+      <p>Start managing your subscriptions now!</p>
+    
+========================================
+
+
+========================================
+Email Type: Welcome Email
+To: aswathys.23aid@kongu.edu
+Subject: Welcome back to Subscribely! 👋
+Timestamp: 2025-11-13T16:35:52.937Z
+========================================
+
+      <h2>Welcome back to Subscribely!</h2>
+      <p>Hi Aswathy,</p>
+      <p>Great to see you back!</p>
+      <p>Start managing your subscriptions now!</p>
+    
+========================================
+
+
+========================================
+Email Type: Welcome Email
+To: aswathys.23aid@kongu.edu
+Subject: Welcome back to Subscribely! 👋
+Timestamp: 2025-11-14T06:45:07.018Z
+========================================
+
+      <h2>Welcome back to Subscribely!</h2>
+      <p>Hi Aswathy,</p>
+      <p>Great to see you back!</p>
+      <p>Start managing your subscriptions now!</p>
+    
+========================================
+
+
+========================================
+Email Type: Welcome Email
+To: aswanthmylsamy@gmail.com
+Subject: Welcome back to Subscribely! 👋
+Timestamp: 2025-11-17T14:29:28.917Z
+========================================
+
+      <h2>Welcome back to Subscribely!</h2>
+      <p>Hi Aswanth,</p>
+      <p>Great to see you back!</p>
+      <p>Start managing your subscriptions now!</p>
+    
+========================================
+
+
+========================================
+Email Type: Welcome Email
+To: aswathys.23aid@kongu.edu
+Subject: Welcome back to Subscribely! 👋
+Timestamp: 2025-11-17T14:29:48.900Z
+========================================
+
+      <h2>Welcome back to Subscribely!</h2>
+      <p>Hi Aswathy,</p>
+      <p>Great to see you back!</p>
+      <p>Start managing your subscriptions now!</p>
+    
+========================================
+
+
+========================================
+Email Type: Welcome Email
+To: gugapriyam.23aid@kongu.edu
+Subject: Welcome to Subscribely! 🎉
+Timestamp: 2025-12-19T03:52:25.433Z
+========================================
+
+      <h2>Welcome to Subscribely!</h2>
+      <p>Hi Gugapriya,</p>
+      <p>Thank you for joining Subscribely!</p>
+      <p>Start managing your subscriptions now!</p>
+    
+========================================
+
